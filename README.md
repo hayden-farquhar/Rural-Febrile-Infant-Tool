@@ -10,6 +10,8 @@ Pre-registration: [OSF dq5n8](https://osf.io/dq5n8/)
 
 Preprint: to be posted
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19649953.svg)](https://doi.org/10.5281/zenodo.19649953)
+
 ## Overview
 
 This repository contains the analysis code for a study combining (1) bivariate HSROC meta-analysis of seven published febrile infant decision rules with (2) individual-level prediction modelling using the PECARN Biosignatures public-use dataset. The model generates continuous IBI (invasive bacterial infection) probability estimates for febrile infants aged 0-60 days using clinical and laboratory data routinely available in rural emergency departments without procalcitonin. A Streamlit decision support tool is included.
@@ -143,7 +145,7 @@ If you use this code, please cite:
 ```
 Farquhar H. Rural-calibrated febrile infant decision support tool: bivariate
 meta-analysis of published decision rules with individual-level prediction
-modelling. [Preprint]. 2026.
+modelling. [Preprint]. 2026. Code: https://doi.org/10.5281/zenodo.19649953
 ```
 
 ## License
