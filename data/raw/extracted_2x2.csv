@@ -1,0 +1,12 @@
+rule,cohort,publication_year,threshold,n,age_range,ibi_prevalence,TP,FP,FN,TN,age_group,notes
+Step-by-Step,Gomez2016,2016,standard,2185,0-90d,0.040,80,1114,7,984,all,PMID:27382134; Fig3 low-risk n=991 IBI=7; sens=92.0% spec=46.9%; VERIFIED
+Rochester,Gomez2016,2016,standard,2185,0-90d,0.040,71,1165,16,933,all,PMID:27382134; Table3 low-risk=949 IBI=16; Table4 sens=81.6% spec=44.5%; VERIFIED
+PECARN,Kuppermann2019_val,2019,UA_ANC4090_PCT1.71,838,0-60d,0.016,13,330,0,495,all,PMID:30776077; eFig6 IBI-specific validation; sens=100% spec=60.0%; VERIFIED
+PECARN,Kuppermann2019_full,2019,UA_ANC4090_PCT1.71,1681,0-60d,0.018,29,635,1,1016,all,PMID:30776077; eFig6 IBI-specific full cohort; sens=96.7% spec=61.5%; VERIFIED
+Aronson,Tsai2021,2021,score_geq_2,4130,0-60d,0.021,81,2968,6,1075,all,PMID:33602794; FN=6 confirmed text; sens=93.1% spec=26.6% cross-verified via Burstein2024 Table1; VERIFIED
+AAP_CRP,Umana2024_FIDO,2024,standard,1821,0-90d,0.037,66,1356,1,398,all,PMID:39677360; Table5 low-risk=399 IBI=1; sens=99% spec=23%; VERIFIED
+BSAC,Umana2024_FIDO,2024,standard,1821,0-90d,0.037,66,1400,1,354,all,PMID:39677360; Table5 low-risk=355 IBI=1; sens=99% spec=20%; VERIFIED
+Aronson,Umana2024_FIDO,2024,standard,1821,0-90d,0.037,60,1235,7,519,all,PMID:39677360; Table5 low-risk=526 IBI=7; sens=90% spec=30%; VERIFIED
+NICE_NG143,Umana2024_FIDO,2024,standard,1821,0-90d,0.037,62,1274,5,480,all,PMID:39677360; Table5 low-risk=485 IBI=5; sens=93% spec=27%; VERIFIED
+Aronson_61-90d,Aronson2025,2025,UA_neg_temp_leq38.9,4952,61-90d,0.020,86,1994,14,2858,61-90d,PMID:40854562; sens=86% spec=58.9%; VERIFIED
+Aronson_61-90d_PCT,Aronson2025,2025,PCT0.24_ANC10710,1207,61-90d,0.022,27,404,0,776,61-90d,PMID:40854562; sens=100% spec=65.8%; VERIFIED

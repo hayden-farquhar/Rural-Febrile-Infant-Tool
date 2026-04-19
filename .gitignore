@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data (PECARN under DUA — do not commit)
+data/raw/pecarn_tig/
+data/interim/*.joblib
+
+# Large outputs (regenerable)
+*.sas7bdat
