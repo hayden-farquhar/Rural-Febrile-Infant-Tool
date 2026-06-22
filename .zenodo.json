@@ -1,9 +1,14 @@
 {
+  "title": "Rural-calibrated febrile infant decision support tool — analysis code (retired)",
+  "version": "v2.0.0",
+  "upload_type": "software",
+  "license": "MIT",
   "creators": [
     {
       "name": "Farquhar, Hayden",
       "orcid": "0009-0002-6226-440X",
       "affiliation": "Independent Researcher"
     }
-  ]
+  ],
+  "description": "RETIRED (June 2026). Analysis code for a derivation study that was rejected after peer review and is no longer being pursued. Peer review established that the prediction model does not outperform existing validated febrile-infant decision rules (internally-validated AUC 0.780, below PECARN and Step-by-Step), that the meta-analysis was underpowered and not a valid pooled meta-analysis (pooled estimates rested on as few as two cohorts, with cohort overlap and heterogeneous age ranges), and that the planned conformal-prediction method returned a null result at the observed invasive-bacterial-infection prevalence; the development cohort was affected by selection bias. This release is retained solely as a reproducible record of a negative result and must not inform patient care. For clinical use, rely on the established externally-validated rules: PECARN, Step-by-Step, Aronson, and the 2021 AAP clinical practice guideline."
 }

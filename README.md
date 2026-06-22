@@ -1,5 +1,13 @@
 # Rural-calibrated febrile infant decision support tool
 
+> ## ⚠️ RETIRED — NEGATIVE RESULT
+>
+> **This project has been retired (June 2026).** The associated study was rejected after peer review and is not being pursued further; the interactive Streamlit tool has been withdrawn and taken offline.
+>
+> Peer review established that: the prediction model **does not outperform existing validated rules** (internally-validated AUC 0.780, below PECARN and Step-by-Step); the meta-analysis was **underpowered and not methodologically valid** (pooled estimates rested on as few as two studies, with cohort double-counting and heterogeneous age ranges); and the planned conformal-prediction method **returned a null result** at the observed IBI prevalence. The development cohort was affected by selection bias (>25% excluded, with lower IBI prevalence among the excluded).
+>
+> This repository is retained solely as a reproducible record of a negative result. **Do not use any output here for patient care.** For clinical decision support, use the established externally-validated rules: PECARN, Step-by-Step, Aronson, and the 2021 AAP clinical practice guideline.
+
 Code repository for: **Rural-calibrated febrile infant decision support tool: bivariate meta-analysis of published decision rules with individual-level prediction modelling**
 
 Hayden Farquhar MBBS MPHTM
@@ -8,7 +16,7 @@ ORCID: [0009-0002-6226-440X](https://orcid.org/0009-0002-6226-440X)
 
 Pre-registration: [OSF dq5n8](https://osf.io/dq5n8/)
 
-Preprint: to be posted
+Status: **retired after peer review (June 2026)** — see notice above.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19649953.svg)](https://doi.org/10.5281/zenodo.19649953)
 
